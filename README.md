@@ -8,7 +8,7 @@ I'm an Information and Computer Science student at Strathmore University, Kenya,
 
 - 🔭 **Current Focus:** Right now I am focused on my 4th year project
 - 🌱 **Learning & Exploration:** Deepening my Laravel and backend engineering skills, and exploring embedded systems and IoT (Arduino, sensor circuits).
-- ⚡ **Core Interests:**Cybersecurity, Embedded Systems, Mobile App Development, and Self-Hosted/Home Infrastructure.
+- ⚡ **Core Interests:** Cybersecurity, Embedded Systems, Mobile App Development, and Self-Hosted/Home Infrastructure.
 
 ---
 
@@ -41,8 +41,8 @@ I'm an Information and Computer Science student at Strathmore University, Kenya,
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 💼 **Professional Network:** https://www.linkedin.com/in/dennis-kasyoki-218263404/
+- 📧 **Direct Contact:** kyalod316@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
