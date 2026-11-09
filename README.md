@@ -43,6 +43,7 @@
 - ⛳ **Golf:** working toward an official handicap index
 - 🔌 **Tinkering:** sensor circuits and Arduino builds
 - 🖥️ **Home lab:** breaking, fixing and hardening my own server
+- 🏃🏽**Running:** an avid runner with a 21km marathon completed, working towards completing a 42km
 
 ---
 
